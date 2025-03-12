@@ -1,0 +1,24 @@
+# Bibliotecas básicas
+numpy>=2.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# Bibliotecas geoespaciales
+geopandas==0.13.2
+shapely==2.0.1
+fiona==1.9.4
+pyproj==3.6.0
+rtree==1.0.1
+
+# Herramientas de visualización
+plotly==5.15.0
+folium==0.14.0
+
+# Herramientas de desarrollo
+jupyter==1.0.0
+ipython==8.12.0
+
+# Otras dependencias útiles
+requests==2.31.0
+scipy==1.11.1
+scikit-learn==1.3.0
